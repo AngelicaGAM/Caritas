@@ -5,7 +5,7 @@
 <script src="//code.jquery.com/jquery-1.11.1.min.js"></script> 
 <link type="text/css" rel="stylesheet" href="_assets/_css/iconos/style.css?x=<?php echo(rand()); ?>">
 <!------ Include the above in your HEAD tag ---------->
-<title>.:SISTEMA AUTOMATIZADO DE SERVICIO SOCIAL - SASS</title>
+<title>.: Caritas</title>
 
 <?php
 
