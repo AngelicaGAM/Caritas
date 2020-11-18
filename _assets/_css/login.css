@@ -1,0 +1,93 @@
+body {
+    font-family: Questrial;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+   
+
+}
+
+
+
+.main-head{
+    height: 150px;
+    background: #FFF;
+   
+}
+.text-login{
+    text-align: center;
+    color: rgb(52,52,52,0,87);
+}
+
+.sidenav {
+    height: 100%;
+    background-color: #4592BD ;
+    background-image: url(https://www.elsoldetoluca.com.mx/incoming/1yji7g-alimentos-790x600.jpg/ALTERNATES/LANDSCAPE_400/alimentos-790x600.jpg);
+    overflow-x: hidden;
+    padding-top: 20px;
+    color: rgb(52,52,52,0,87);
+    opacity: 0.7; 
+}
+
+
+.main {
+    padding: 0px 10px;
+    text-align: center;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+}
+
+@media screen and (max-width: 450px) {
+    .login-form{
+        margin-top: 10%;
+    }
+
+    .register-form{
+        margin-top: 10%;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .main{
+        margin-left: 50%; 
+        
+    }
+
+    .sidenav{
+
+        width: 45%;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        left: 0;
+    }
+
+    .login-form{
+        margin-top: 50%;
+    }
+
+    .register-form{
+        margin-top: 20%;
+    }
+}
+
+
+.login-main-text{
+    background: cadetblue;
+    margin-top: 20%;
+    padding: 60px;
+    color: rgb(52,52,52,0,87);
+}
+
+.login-main-text h2{
+    font-weight: 300;
+}
+button.btn.btn-black{
+    background-color: #215687 !important;
+    color: #fff;
+    
+}
