@@ -1,0 +1,113 @@
+.body {
+    font-family: Questrial;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 37px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.cuadro {
+    position: absolute;
+    width: 600px;
+    height: 478px;
+    left: 137px;
+    top: 152px;
+    background: #215687;
+}
+
+.cuadro2 {
+    position: absolute;
+    width: 600px;
+    height: 478px;
+    left: 787.68px;
+    top: 152px;
+    background: #215687;
+}
+
+.btn-entrada {
+    position: absolute;
+    width: 484px;
+    height: 50px;
+    left: 63px;
+    top: 143px;
+    background: linear-gradient(180deg, rgba(197, 237, 255, 0.72) 0%, rgba(71, 173, 217, 0.7128) 100%);
+}
+
+.btn-salida {
+    position: absolute;
+    width: 484px;
+    height: 50px;
+    left: 63px;
+    top: 143px;
+    background: linear-gradient(180deg, rgba(197, 237, 255, 0.72) 0%, rgba(71, 173, 217, 0.7128) 100%);
+}
+
+.uno {
+    top: 143px;
+}
+
+.dos {
+    top: 210px;
+}
+
+.tres {
+    top: 277px;
+}
+
+.cuatro {
+    top: 344px;
+}
+
+.naranja {
+    position: absolute;
+    width: 112px;
+    height: 25px;
+    left: 19px;
+    top: 15px;
+    background: #FFA630;
+    border-radius: 20px;
+}
+
+.text {
+    position: absolute;
+    width: 413px;
+    height: 53px;
+    left: 65px;
+    top: 77px;
+    font-family: Questrial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 37px;
+    color: #FAF3F3;
+}
+
+.textinside {
+    position: absolute;
+    width: 196px;
+    height: 15px;
+    left: 160px;
+    top: 17px;
+    font-family: Questrial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 19px;
+    color: rgba(52, 52, 52, 0.87);
+}
+
+.textclave {
+    position: absolute;
+    width: 47px;
+    height: 13px;
+    left: calc(50% - 36px/2 + -0.5px);
+    top: 7px;
+    font-family: Questrial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 14px;
+    color: rgba(52, 52, 52, 0.87);
+}
