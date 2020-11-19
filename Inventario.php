@@ -7,7 +7,7 @@
       <div class="row">
 
           <div class="cuadro">
-            
+            <a href="Inventario-Tabla.php">
                 <p class="text"> Entradas</p>
                 
                 <div class="btn-entrada uno">
@@ -38,11 +38,11 @@
                     <p class="textinside">Evento  6- dic-2020</p>
                 </div>
 
-
+            </a>
           </div> 
 
           <div class="cuadro2">
-
+            <a href="Inventario-Tabla.php">
               <p class="text"> Salidas</p>
             
               <div class="btn-salida uno">
@@ -73,7 +73,7 @@
                     <p class="textinside">Evento  24- sep-2020</p>
               </div>
           </div>  
-             
+             </a>
       </div>
    
   
