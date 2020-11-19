@@ -1,3 +1,9 @@
+.body {
+    font-family: Questrial;
+    font-style: normal;
+    font-weight: normal;
+}
+
 :root {
     --azulito: rgb(0, 193, 186);
     --marginLeft: 0.8em;
@@ -10,6 +16,9 @@
 }
 
 .color-menu {
+    font-family: Questrial;
+    font-style: normal;
+    font-weight: normal;
     mix-blend-mode: normal;
     backdrop-filter: blur(4px);
     background: linear-gradient(180deg, rgb(96 163 232 / 89%) 0%, rgb(149 200 251 / 98%) 100%);
