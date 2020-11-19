@@ -1,0 +1,46 @@
+.color-table {
+    background: #34628C;
+    color: #FFFFFF;
+    font-family: Questrial;
+    font-style: normal;
+    line-height: 20px;
+}
+
+tbody {
+    color: #636DA5;
+    line-height: 20px;
+}
+
+.colr {
+    background: #34628C;
+    margin-bottom: -1px;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+    line-height: 42px;
+    color: white;
+}
+
+.btn-back {
+    margin-left: 16px;
+    margin-top: 50px;
+    width: 131px;
+    height: 34px;
+    background: #165089;
+    border-radius: 103px;
+    font-size: 18px;
+    line-height: 104.2%;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    text-indent: 28px;
+}
+
+.btn-activo {
+    background: #66B9BF !important;
+}
+
+.btn-izq {
+    margin-left: 683px;
+    margin-right: 12px;
+}

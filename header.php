@@ -5,6 +5,7 @@
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.1.min.js"></script> 
 <link type="text/css" rel="stylesheet" href="_assets/_css/iconos/style.css?x=<?php echo(rand()); ?>">
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Questrial" />
 <!------ Include the above in your HEAD tag ---------->
 <title>.: Caritas</title>
 
