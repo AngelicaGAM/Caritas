@@ -1,55 +1,83 @@
+:root {
+    --azulito: rgb(0, 193, 186);
+    --marginLeft: 0.8em;
+    --borderRadius: 10px;
+    --width: 20%;
+    --colorBoton: #fff;
+    --colorIcono: rgb(215, 117, 8);
+    --colorBeyond: #005464;
+    --colorBlanco: #fff;
+}
 
-:root{
-	--azulito:rgb(0,193,186);
-	--marginLeft:0.8em;
-	--borderRadius:10px;
-	--width:20%;
-	--colorBoton:#fff;
-	--colorIcono:rgb(215,117,8);
-	--colorBeyond:#005464;
-	--colorBlanco:#fff;
+.color-menu {
+    mix-blend-mode: normal;
+    backdrop-filter: blur(4px);
+    background: linear-gradient(180deg, rgb(96 163 232 / 89%) 0%, rgb(149 200 251 / 98%) 100%);
+    border-bottom: 1px solid #86c1f7;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgb(0 102 255 / 24%);
 }
-.color-menu{
-    background-color: rgb(235, 243, 251) !important;
-}
-.color-footer{
+
+.color-footer {
     background-color: #4F92D0 !important;
+    position: absolute;
+    height: 87px;
+    top: 667px;
 }
 
-.nav-item{
+.nav-item {
     cursor: grab;
 }
+
 .float-right {
     float: left!important;
     margin-left: 53%;
 }
+
 p.texto-menu {
     color: white;
-    margin-bottom: 6px;
-    margin-top: -8px;
-    margin-left: -19px;
+    position: absolute;
+    left: 63.23%;
+    right: 18.46%;
+    top: 44.3%;
+    bottom: 26.17%;
+    font-family: Questrial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 31px;
 }
-.navbar-light .navbar-brand{
-    color: var(--colorBlanco);   
+
+.navbar-light .navbar-brand {
+    color: var(--colorBlanco);
 }
-.navbar-light .navbar-nav .nav-link{
-    color: rgb(33, 86, 135) !important;
-    
+
+.navbar-light .navbar-nav .nav-link {
+    font-size: 1.22rem !important;
+    color: rgb(255, 255, 255) !important;
 }
+
 .inside {
-    color: rgb(33, 86, 135) !important;
+    color: rgb(255, 255, 255) !important;
     font-size: 1em;
     top: calc(38%);
     position: absolute;
     text-indent: 10px;
 }
+
 .input {
     text-indent: 20px;
 }
+
 img {
-    width: 15%;
-    margin-left: 29px;}
-    a.nav-link{
-        color: #215687;
-    }
-    
+    width: 20%;
+    margin-left: 29px;
+}
+
+img.footer {
+    width: 10%;
+}
+
+a.nav-link {
+    color: #215687;
+}
