@@ -13,3 +13,18 @@ Automatización entradas y salidas donaciones
 - Garza Romero Victoria Andrea
 - Nestor David Que Torre
 - Gutiérrez May Diana Aimeé
+
+# Vistas 
+--- 
+
+
+## Login
+![Alt text](login.PNG?raw=true "Title")
+
+## Inventario
+
+![Alt text](inventario.PNG?raw=true "Title")
+
+## Inventario - tablas 
+
+![Alt text](tablas.PNG?raw=true "Title")
