@@ -9,9 +9,9 @@
 
     <div class="row">
         
-        <button class="btn-back " onclick="window.location.href='/caritas2/inventario.php'">Regresar</button>
+        <button class="btn-back " onclick="window.location.href='/inventario.php'">Regresar</button>
 
-        <button class="btn-back btn-activo btn-izq" onclick="window.location.href='/caritas2/ingresar.php'">Añadir +</button>
+        <button class="btn-back btn-activo btn-izq" onclick="window.location.href='/ingresar.php'">Añadir +</button>
 
         <div class="btn-back ">
             Filtrar

@@ -1,5 +1,5 @@
 
-<footer class="page-footer font-small  color-footer">
+<footer class="page-footer font-small  color-footer navbar navbar-expand-lg navbar-light bg-light ">
 
   <!-- Copyright -->
   <div class="col-8">
